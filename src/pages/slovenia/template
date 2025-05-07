@@ -1,6 +1,6 @@
 
 ---
-import Layout from '../components/Layout.astro';
+import Layout from '../../components/Layout.astro';
 ---
 
 <Layout title="TITLE">
@@ -24,7 +24,7 @@ Difficulty:
 <br>
 <a href=>Link to workout in Strava</a>
 <hr>
-<a href="https://photos.app.goo.gl/vJaiSbJqpC2HM8m87">Link to photo gallery from this trip</a> - sorry, I won't be able to link individual photos in these posts!
+<a href="https://photos.app.goo.gl/n64phYFmB4n9dg3Y6">Link to photo gallery from this trip</a> - sorry, I won't be able to link individual photos in these posts!
 <hr>
 <p>
 CONTENT
